@@ -8,5 +8,5 @@ redis:7.0.10
 mysql:8.0.30
 nacos/nacos-server
 rabbitmq:management
-elasticsearch:8.15.2
+elasticsearch:7.17.24
 nginx
